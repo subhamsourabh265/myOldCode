@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1380741270 source:d:\college documents\c and ds prog\array\length\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1380741270 source:d:\c and ds prog\array\length\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

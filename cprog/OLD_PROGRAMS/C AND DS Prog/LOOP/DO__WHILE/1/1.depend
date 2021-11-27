@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380132036 source:d:\college documents\c and ds prog\do__while\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

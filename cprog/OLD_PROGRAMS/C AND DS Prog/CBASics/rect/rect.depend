@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379422736 source:d:\ds programs\rect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1379422736 source:d:\c and ds prog\cbasics\rect\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

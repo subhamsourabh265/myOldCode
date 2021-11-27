@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379824392 source:d:\c and ds prog\loop\switch\switch3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379771290 source:d:\c and ds prog\if___-else\ifels\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

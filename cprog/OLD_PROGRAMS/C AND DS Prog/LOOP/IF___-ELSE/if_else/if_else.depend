@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379582628 source:d:\ds programs\if_else\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1454064263 source:e:\college documents\programs\cprog\chk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

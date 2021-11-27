@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457712779 source:e:\college documents\programs\cprog\arm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1380033589 source:d:\c and ds prog\loop\for\armstrong_no\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442775290 source:e:\college documents\programs\cprog\mallov\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

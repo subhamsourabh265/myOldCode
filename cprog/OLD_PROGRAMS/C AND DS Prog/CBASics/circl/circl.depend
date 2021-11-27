@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1379431844 source:d:\ds programs\circl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

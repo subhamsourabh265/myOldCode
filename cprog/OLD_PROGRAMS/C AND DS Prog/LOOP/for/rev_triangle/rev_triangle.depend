@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380123072 source:d:\college documents\c and ds prog\loop\for\rev_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

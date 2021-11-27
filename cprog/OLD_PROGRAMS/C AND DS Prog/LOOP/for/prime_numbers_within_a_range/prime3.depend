@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1379838470 source:d:\c and ds prog\loop\for\prime3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1379839136 source:d:\c and ds prog\loop\for\prime_numbers_within_a_range\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

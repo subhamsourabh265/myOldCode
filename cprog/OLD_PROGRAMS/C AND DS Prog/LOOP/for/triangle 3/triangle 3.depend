@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380122464 source:d:\c and ds prog\loop\for\triangle 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

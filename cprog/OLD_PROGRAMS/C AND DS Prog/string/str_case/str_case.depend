@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1382857348 source:d:\c and ds prog\string\str_case\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

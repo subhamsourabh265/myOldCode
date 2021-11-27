@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1380115410 source:d:\c and ds prog\loop\for\star_triangle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

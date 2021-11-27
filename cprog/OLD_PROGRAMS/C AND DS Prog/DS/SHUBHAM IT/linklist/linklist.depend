@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1378540204 source:f:\shamir\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1378540204 source:f:\shubham it\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

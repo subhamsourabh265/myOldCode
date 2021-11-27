@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457770356 source:e:\college documents\programs\cprog\prm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
